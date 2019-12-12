@@ -1,6 +1,6 @@
 # control-systems-and-engineering
 
-Coursework examples from the following classes:
+Coursework from the following classes:
 1. A control systems class
 1. Two levels of a engineering systems analysis classes
 1. Two levels of a numerical analysis class
